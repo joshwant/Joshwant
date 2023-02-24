@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Josh Want</h1>
-<h2 align="center">Promoting open source, one step at a time smiley 😀 👨‍💻</h2>
+<h2 align="center">Check out my links below! 😀 👨‍💻</h2>
 
 > Join us as a contributor and associate with us in our journey for making Open Source Contribution lit <span role="img" aria-label="fire emoji">🔥</span> and super powerful for the budding and already existing community.
 
