@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Josh Want</h1>
-<h2 align="center">👨‍💻 Studying Computer Science! 👨‍💻</h2>
+<h2 align="center">👨‍💻 Full Stack Engineer! 👨‍💻</h2>
 <h4 align="center">Check out my links below! 😀</h4>
 
 
